@@ -1,0 +1,1557 @@
+{
+  "option1": {
+    
+    "3267860": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743373806,
+      "processed": true,
+      "result": "17",
+      "profit": 70.04000000000002,
+      "processTime": 1743373876
+    },
+    "3267861": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743373919,
+      "processed": true,
+      "result": "17",
+      "profit": -133,
+      "processTime": 1743374081
+    },
+    "3267862": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743374124,
+      "processed": true,
+      "result": "12",
+      "profit": 70.04000000000002,
+      "processTime": 1743374291
+    },
+    "3267863": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743374334,
+      "processed": true,
+      "result": "17",
+      "profit": -133,
+      "processTime": 1743374533
+    },
+    "3267864": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743374548,
+      "processed": true,
+      "result": "6",
+      "profit": 66.04000000000002,
+      "processTime": 1743374713
+    },
+    "3267865": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743374757,
+      "processed": true,
+      "result": "21",
+      "profit": -133,
+      "processTime": 1743374921
+    },
+    "3267866": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743374964,
+      "processed": true,
+      "result": "12",
+      "profit": 66.04000000000002,
+      "processTime": 1743375130
+    },
+    "3267867": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743375173,
+      "processed": true,
+      "result": "13",
+      "profit": -90,
+      "processTime": 1743375341
+    },
+    "3267868": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743375384,
+      "processed": true,
+      "result": "15",
+      "profit": 70.04000000000002,
+      "processTime": 1743375554
+    },
+    "3267869": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743375598,
+      "processed": true,
+      "result": "17",
+      "profit": 66.04000000000002,
+      "processTime": 1743375760
+    },
+    "3267870": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743375804,
+      "processed": true,
+      "result": "17",
+      "profit": 66.04000000000002,
+      "processTime": 1743375974
+    },
+    "3267871": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743376018,
+      "processed": true,
+      "result": "6",
+      "profit": 66.04000000000002,
+      "processTime": 1743376181
+    },
+    "3267872": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743376225,
+      "processed": true,
+      "result": "8",
+      "profit": 70.04000000000002,
+      "processTime": 1743376398
+    },
+    "3267873": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743376441,
+      "processed": true,
+      "result": "22",
+      "profit": 70.39000000000001,
+      "processTime": 1743376601
+    },
+    "3267874": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743376645,
+      "processed": true,
+      "result": "15",
+      "profit": 70.04000000000002,
+      "processTime": 1743376810
+    },
+    "3267875": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743376853,
+      "processed": true,
+      "result": "4",
+      "profit": 70.04000000000002,
+      "processTime": 1743377023
+    },
+    "3267876": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743377067,
+      "processed": true,
+      "result": "17",
+      "profit": 70.04000000000002,
+      "processTime": 1743377230
+    },
+    "3267877": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743377274,
+      "processed": true,
+      "result": "17",
+      "profit": 70.04000000000002,
+      "processTime": 1743377440
+    },
+    "3267878": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743377484,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743377650
+    },
+    "3267879": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743377694,
+      "processed": true,
+      "result": "17",
+      "profit": -133,
+      "processTime": 1743377862
+    },
+    "3267880": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743377905,
+      "processed": true,
+      "result": "12",
+      "profit": -133,
+      "processTime": 1743378072
+    },
+    "3267881": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小单43",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743378115,
+      "processed": true,
+      "result": "21",
+      "profit": 66.04000000000002,
+      "processTime": 1743378280
+    },
+    "3267882": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743378324,
+      "processed": true,
+      "result": "12",
+      "profit": 66.04000000000002,
+      "processTime": 1743378490
+    },
+    "3267883": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743378533,
+      "processed": true,
+      "result": "17",
+      "profit": 70.04000000000002,
+      "processTime": 1743378699
+    },
+    "3267884": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743378743,
+      "processed": true,
+      "result": "9",
+      "profit": -137,
+      "processTime": 1743378913
+    },
+    "3267885": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743378956,
+      "processed": true,
+      "result": "13",
+      "profit": -137,
+      "processTime": 1743379124
+    },
+    "3267886": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743379168,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743379333
+    },
+    "3267887": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743379377,
+      "processed": true,
+      "result": "17",
+      "profit": -133,
+      "processTime": 1743379540
+    },
+    "3267888": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743379584,
+      "processed": true,
+      "result": "1",
+      "profit": 70.39000000000001,
+      "processTime": 1743379750
+    },
+    "3267889": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743379794,
+      "processed": true,
+      "result": "17",
+      "profit": 66.04000000000002,
+      "processTime": 1743379964
+    },
+    "3267890": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743380008,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743380171
+    },
+    "3267891": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743380215,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743380379
+    },
+    "3267892": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743380423,
+      "processed": true,
+      "result": "15",
+      "profit": 66.04000000000002,
+      "processTime": 1743380591
+    },
+    "3267893": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743380635,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743380800
+    },
+    "3267914": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743385044,
+      "processed": true,
+      "result": "16",
+      "profit": 66.39000000000001,
+      "processTime": 1743385210
+    },
+    "3267915": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743385253,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743385420
+    },
+    "3267916": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743385464,
+      "processed": true,
+      "result": "17",
+      "profit": 66.04000000000002,
+      "processTime": 1743385631
+    },
+    "3267917": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743385674,
+      "processed": true,
+      "result": "7",
+      "profit": 70.39000000000001,
+      "processTime": 1743385842
+    },
+    "3267918": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743385884,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743386049
+    },
+    "3267919": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743386093,
+      "processed": true,
+      "result": "16",
+      "profit": 66.39000000000001,
+      "processTime": 1743386261
+    },
+    "3267920": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743386304,
+      "processed": true,
+      "result": "11",
+      "profit": 70.39000000000001,
+      "processTime": 1743386472
+    },
+    "3267921": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743386516,
+      "processed": true,
+      "result": "6",
+      "profit": 66.04000000000002,
+      "processTime": 1743386679
+    },
+    "3267922": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 133,
+      "time": 1743386723,
+      "processed": true,
+      "result": "5",
+      "profit": 70.39000000000001,
+      "processTime": 1743386891
+    },
+    "3267923": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743386935,
+      "processed": true,
+      "result": "14",
+      "profit": -94,
+      "processTime": 1743387099
+    },
+    "3267924": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743387144,
+      "processed": true,
+      "result": "5",
+      "profit": -137,
+      "processTime": 1743387309
+    },
+    "3267925": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743387352,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743387520
+    },
+    "3267939": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743390295,
+      "processed": true,
+      "result": "22",
+      "profit": 70.39000000000001,
+      "processTime": 1743390459
+    },
+    "3267940": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743390502,
+      "processed": true,
+      "result": "17",
+      "profit": -133,
+      "processTime": 1743390671
+    },
+    "3267941": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 133,
+      "time": 1743390714,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743390880
+    },
+    "3267944": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743391344,
+      "processed": true,
+      "result": "6",
+      "profit": -133,
+      "processTime": 1743391512
+    },
+    "3267945": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743391555,
+      "processed": true,
+      "result": "3",
+      "profit": 70.39000000000001,
+      "processTime": 1743391721
+    },
+    "3267946": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743391764,
+      "processed": true,
+      "result": "15",
+      "profit": 70.04000000000002,
+      "processTime": 1743391930
+    },
+    "3267947": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743391974,
+      "processed": true,
+      "result": "10",
+      "profit": -133,
+      "processTime": 1743392139
+    },
+    "3267948": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743392183,
+      "processed": true,
+      "result": "22",
+      "profit": 66.39000000000001,
+      "processTime": 1743392350
+    },
+    "3267949": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743392394,
+      "processed": true,
+      "result": "17",
+      "profit": 66.04000000000002,
+      "processTime": 1743392560
+    },
+    "3267950": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743392603,
+      "processed": true,
+      "result": "5",
+      "profit": 66.39000000000001,
+      "processTime": 1743392771
+    },
+    "3267951": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 137,
+      "time": 1743392815,
+      "processed": true,
+      "result": "12",
+      "profit": 66.04000000000002,
+      "processTime": 1743392981
+    },
+    "3267952": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743393025,
+      "processed": true,
+      "result": "10",
+      "profit": 66.04000000000002,
+      "processTime": 1743393191
+    },
+    "3267953": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743393235,
+      "processed": true,
+      "result": "18",
+      "profit": 70.39000000000001,
+      "processTime": 1743393399
+    },
+    "3267954": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743393442,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743393614
+    },
+    "3267955": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 133,
+      "time": 1743393658,
+      "processed": true,
+      "result": "15",
+      "profit": 70.04000000000002,
+      "processTime": 1743393819
+    },
+    "3267956": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743393863,
+      "processed": true,
+      "result": "10",
+      "profit": -133,
+      "processTime": 1743394031
+    },
+    "3267957": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743394075,
+      "processed": true,
+      "result": "19",
+      "profit": -133,
+      "processTime": 1743394241
+    },
+    "3267958": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743394285,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743394449
+    },
+    "3267959": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743394493,
+      "processed": true,
+      "result": "9",
+      "profit": -137,
+      "processTime": 1743394660
+    },
+    "3267960": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743394704,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743394871
+    },
+    "3267961": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "小双47",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743394915,
+      "processed": true,
+      "result": "22",
+      "profit": 66.39000000000001,
+      "processTime": 1743395080
+    },
+    "3267962": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 133,
+      "time": 1743395123,
+      "processed": true,
+      "result": "13",
+      "profit": -90,
+      "processTime": 1743395291
+    },
+    "3267963": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743395334,
+      "processed": true,
+      "result": "8",
+      "profit": -133,
+      "processTime": 1743395501
+    },
+    "3267964": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 137,
+      "time": 1743395545,
+      "processed": true,
+      "result": "6",
+      "profit": 66.04000000000002,
+      "processTime": 1743395710
+    },
+    "3267965": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 133,
+      "time": 1743395754,
+      "processed": true,
+      "result": "10",
+      "profit": -133,
+      "processTime": 1743395919
+    },
+    "3267966": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743395963,
+      "processed": true,
+      "result": "15",
+      "profit": 70.04000000000002,
+      "processTime": 1743396131
+    },
+    "3267967": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 133,
+      "time": 1743396175,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743396340
+    },
+    "3267968": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 133,
+      "time": 1743396384,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743396553
+    },
+    "3267969": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743396597,
+      "processed": true,
+      "result": "11",
+      "profit": 70.39000000000001,
+      "processTime": 1743396760
+    },
+    "3267970": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 133,
+      "time": 1743396804,
+      "processed": true,
+      "result": "13",
+      "profit": -90,
+      "processTime": 1743396970
+    },
+    "3267971": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743397014,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743397181
+    },
+    "3267972": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743397224,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743397389
+    },
+    "3267973": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743397433,
+      "processed": true,
+      "result": "23",
+      "profit": -133,
+      "processTime": 1743397601
+    },
+    "3267974": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743397645,
+      "processed": true,
+      "result": "11",
+      "profit": 70.39000000000001,
+      "processTime": 1743397811
+    },
+    "3267975": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743397855,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743398020
+    },
+    "3267976": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 137,
+      "time": 1743398064,
+      "processed": true,
+      "result": "19",
+      "profit": 66.04000000000002,
+      "processTime": 1743398231
+    },
+    "3267977": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743398273,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743398441
+    },
+    "3267983": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 133,
+      "time": 1743399534,
+      "processed": true,
+      "result": "13",
+      "profit": -90,
+      "processTime": 1743399699
+    },
+    "3267993": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 137,
+      "time": 1743401638,
+      "processed": true,
+      "result": "6",
+      "profit": 66.04000000000002,
+      "processTime": 1743401800
+    },
+    "3267994": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743401843,
+      "processed": true,
+      "result": "20",
+      "profit": 70.39000000000001,
+      "processTime": 1743402012
+    },
+    "3267995": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743402055,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743402220
+    },
+    "3267996": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743402264,
+      "processed": true,
+      "result": "20",
+      "profit": 66.39000000000001,
+      "processTime": 1743402430
+    },
+    "3267997": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743402473,
+      "processed": true,
+      "result": "8",
+      "profit": 66.04000000000002,
+      "processTime": 1743402641
+    },
+    "3267998": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "小双47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743402684,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743402850
+    },
+    "3267999": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743402894,
+      "processed": true,
+      "result": "18",
+      "profit": 70.39000000000001,
+      "processTime": 1743403059
+    },
+    "3268000": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 137,
+      "time": 1743403103,
+      "processed": true,
+      "result": "11",
+      "profit": 66.39000000000001,
+      "processTime": 1743403271
+    },
+    "3268001": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大单47",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743403314,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743403481
+    },
+    "3268002": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743403524,
+      "processed": true,
+      "result": "10",
+      "profit": -133,
+      "processTime": 1743403689
+    },
+    "3268003": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743403733,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743403901
+    },
+    "3268004": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743403944,
+      "processed": true,
+      "result": "9",
+      "profit": 70.39000000000001,
+      "processTime": 1743404112
+    },
+    "3268005": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743404155,
+      "processed": true,
+      "result": "19",
+      "profit": 66.04000000000002,
+      "processTime": 1743404320
+    },
+    "3268006": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743404363,
+      "processed": true,
+      "result": "13",
+      "profit": -90,
+      "processTime": 1743404531
+    },
+    "3268027": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743408775,
+      "processed": true,
+      "result": "9",
+      "profit": -137,
+      "processTime": 1743408942
+    },
+    "3268028": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "小双47",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743408986,
+      "processed": true,
+      "result": "12",
+      "profit": 66.04000000000002,
+      "processTime": 1743409154
+    },
+    "3268029": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "小双47",
+        "小单43"
+      ],
+      "amount": 137,
+      "time": 1743409198,
+      "processed": true,
+      "result": "14",
+      "profit": -137,
+      "processTime": 1743409360
+    },
+    "3268061": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743415915,
+      "processed": true,
+      "result": "23",
+      "profit": 66.04000000000002,
+      "processTime": 1743416081
+    },
+    "3268062": {
+      "type": "option1",
+      "bets": [
+        "小单43",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 133,
+      "time": 1743416124,
+      "processed": true,
+      "result": "17",
+      "profit": -133,
+      "processTime": 1743416292
+    },
+    "3268063": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743416335,
+      "processed": true,
+      "result": "15",
+      "profit": 66.04000000000002,
+      "processTime": 1743416499
+    },
+    "3268064": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743416543,
+      "processed": true,
+      "result": "16",
+      "profit": 70.39000000000001,
+      "processTime": 1743416711
+    },
+    "3268065": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小双47"
+      ],
+      "amount": 137,
+      "time": 1743416754,
+      "processed": true,
+      "result": "16",
+      "profit": 66.39000000000001,
+      "processTime": 1743416921
+    },
+    "3268066": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "大双43",
+        "大单47"
+      ],
+      "amount": 137,
+      "time": 1743416965,
+      "processed": true,
+      "result": "12",
+      "profit": 66.04000000000002,
+      "processTime": 1743417131
+    },
+    "3268067": {
+      "type": "option1",
+      "bets": [
+        "小双47",
+        "小单43",
+        "大双43"
+      ],
+      "amount": 133,
+      "time": 1743417174,
+      "processed": true,
+      "result": "14",
+      "profit": -90,
+      "processTime": 1743417341
+    },
+    "3268068": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743417384,
+      "processed": true,
+      "result": "8",
+      "profit": -133,
+      "processTime": 1743417550
+    },
+    "3268069": {
+      "type": "option1",
+      "bets": [
+        "大双43",
+        "大单47",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743417594,
+      "processed": true,
+      "result": "12",
+      "profit": -133,
+      "processTime": 1743417762
+    },
+    "3268070": {
+      "type": "option1",
+      "bets": [
+        "大单47",
+        "大双43",
+        "小单43"
+      ],
+      "amount": 133,
+      "time": 1743417805,
+      "processed": false
+    }
+  },
+  "option2": {}
+}

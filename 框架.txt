@@ -1,0 +1,16 @@
+pc28-bot/
+├── config/                 # 配置文件目录
+│   ├── index.js            # 集中管理所有配置
+│   └── channels.json       # 频道配置
+├── core/                   # 核心功能模块
+│   ├── betting.js          # 投注逻辑
+│   ├── calculation.js      # 盈亏计算
+│   ├── lottery.js          # 开奖结果处理
+│   └── telegram.js         # Telegram 客户端
+├── data/                   # 数据存储
+│   ├── bets/               # 投注记录
+│   └── results/            # 开奖结果
+├── utils/                  # 工具函数
+│   ├── file.js             # 文件操作
+│   └── logger.js           # 日志记录
+└── index.js                # 主程序入口

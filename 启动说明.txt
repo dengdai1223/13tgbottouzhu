@@ -1,0 +1,13 @@
+
+
+方案1
+node index3.js --strategy=1    
+
+
+带写入数据的操作。。
+node index3-1.js --strategy=1    
+
+
+方案2
+
+node index3.js --strategy=2    
